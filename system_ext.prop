@@ -1,2 +1,12 @@
 # IFAA
 sys.oplus.ifaa.model=ONEPLUS-R24211
+
+# LightningOS
+ro.lightning.display=2772 x 1240, 120 hz
+ro.lightning.battery=5500mah
+ro.lightning.soc=Qualcomm Snapdragon 7+ Gen 3
+ro.lightning.camera=50MP + 8MP
+ro.lightning.front=16MP
+ro.lightning.platform=SM7675
+ro.lightning.screen=6.74″ AMOLED
+ro.lightning.device.name=OnePlus Nord 4
